@@ -12,7 +12,7 @@ This project constructs and evaluates a quantitative trading factor based on fun
 
 ## Key Findings
 
-- Mean IC was approximately 0.007 with an IC IR (information ratio) of 0.078
+- Mean IC was approximately 0.007 
 - The IC time series showed random oscillation around zero with no clear trend
 - The factor showed weak predictive power in this dataset, suggesting low-return-day fund flows alone may not be a strong standalone signal
 
